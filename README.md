@@ -11,7 +11,7 @@
 # LINKS
 
 ## LinkedIn
-* https://www.linkedin.com/in/mohamed-gamal-283a8423b.
+* https://www.linkedin.com/in/mohamed-gamal-283a8423b
 
 ## Calculator Google Drive:
 * https://drive.google.com/drive/folders/1SBJYFQhgIpA8H50ti4G5gE4MLxCZTzyo

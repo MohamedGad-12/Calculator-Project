@@ -1,6 +1,6 @@
 # Calculator-Project
 
-## Calculator Project based on Atmega32 MCU.
+## Calculator Project based on Atmega32 MCU
 
 *	Using:
 	- AtMega32 Microcontroller.
